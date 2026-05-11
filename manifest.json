@@ -1,0 +1,25 @@
+{
+  "name": "The Calendar",
+  "short_name": "The Calendar",
+  "description": "スケジュール帳",
+  "start_url": "/karen20263/",
+  "scope": "/karen20263/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#b51a00",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/karen20263/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/karen20263/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
